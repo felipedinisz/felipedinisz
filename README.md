@@ -58,7 +58,7 @@ Developing a robust data transmission system for industrial sensors.
   <a href="mailto:felipeard2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/](https://www.linkedin.com/in/felipearddiniz/)">
+  <a href="[https://www.linkedin.com/in/felipearddiniz/]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
